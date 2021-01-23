@@ -3,5 +3,6 @@ public class test {
         System.out.println("555");
         System.out.println("66666");
         System.out.println("fenzhi777");
+        System.out.println("666666666666");
     }
 }
